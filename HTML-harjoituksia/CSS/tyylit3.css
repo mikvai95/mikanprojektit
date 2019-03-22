@@ -1,0 +1,20 @@
+﻿body{}
+#superbig {
+	font-size: 80px;
+}
+#big {
+	font-size: 60px;
+}
+#small {
+	font-size: 40px;
+}
+#supersmall {
+	font-size: 20px;
+}
+bdi{
+	direction:rtl;
+}
+table, th, td {
+	border: 1px solid;
+}
+
