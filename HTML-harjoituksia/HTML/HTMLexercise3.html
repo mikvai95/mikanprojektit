@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Lomake</title>
+</head>
+<body>
+	<form action="http://www.yourdo.main/cgi-bin/mail.pl" method="post">
+		<table border="0">
+			<tbody>
+				<tr>
+					<td>Nimi:</td>
+					<td>
+						<input name="name" type="text" size="30" value="" />
+						</td>
+				</tr>
+				<tr>
+					<td>Osoite:</td>
+					<td>
+						<input name="address" type="text" size="30" value="" />
+					</td>
+				</tr>
+				<tr>
+					<td>Kaupunki:</td>
+					<td>
+						<input name="city" type="text" size="30" value="" />
+					</td>
+				</tr>
+				<tr>
+					<td>Maa:</td>
+					<td>
+						<input name="country" type="text" size="30" value="" />
+					</td>
+				</tr>
+				<tr>
+					<td>Postinumero:</td>
+					<td>
+						<input name="zip" type="text" size="30" value="" />
+					</td>
+				</tr>
+				<tr>
+					<td>Lehti:</td>
+					<td>
+						<select name="magazine">
+							<option value="Seiska">Seiska</option>
+							<option value="Aku Ankka">Aku Ankka</option>
+							<option value="Avotakka">Avotakka</option>
+							<option value="Gloria">Gloria</option>
+							<option value="Tekniikan Maailma">Tekniikan Maailma</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Tilaus:</td>
+					<td>
+					<input name="subscription" type="radio" value="1yr" />
+					1 vuosi
+					<input name="subscription" type="radio" value="2yr" />
+					2 vuotta
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">Kommenttisi:</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<textarea name="comments" rows="5" cols="40"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<input type="submit" value="Lähetä tilauksesi" />
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form
+</body>
+</html>

@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Lomake</title>
+<style>
+body {
+	display: block;
+	margin: auto;
+	width: 700px;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: mistyrose;
+	opacity: 0.75;
+}
+input[type=submit], input[type=text] {
+	padding: 9px;
+	font-size: 18px;
+	line-height: 18px;
+	float: left;
+	border: 0;
+	display: block;
+}
+.otsikot {
+	padding: 9px;
+	padding-top: 23px;
+}
+.select {
+	font-size: 20px;
+	width: 200px;
+	height: 30px;
+}
+.kommentti {
+	size: 30;
+	height: 90px;
+}
+</style>
+</head>
+	<body>
+		<table>
+			<tr><th colspan="2"<h1>Tiedon keruu!</h1></th></tr>
+		<tr>
+			<td class="otsikot"><h2>Nimi:</h2></td>
+			<td><input type="text" name="nimi" placeholder="Kirjoita nimesi" size="25"></td>
+			<td class="otsikot"><h2>Sähköposti:</h2></td>
+			<td><input type="text" name="nimi" placeholder="Kirjoita sähköpostisi" size="25"></td>
+		</tr>
+		<tr>
+		<td class="otsikot"><h2>Sijainti:</h2></td>
+		<td><select name="cities" size="" class="select">
+	<option value="spyro">Kerava</option>
+	<option value="crash">Järvenpää</option>
+	<option value="jak">Vantaa</option>
+	<option value="ratchet">Muu</option>
+</select></td>
+		</tr>
+		<tr>
+	<td class="otsikot"><h2>Sukupuoli:</h2></td>
+	<td><input type="radio" name="gender" value="male" checked> Mies<br>
+<input type="radio" name="gender" value="female" checked> Nainen<br>
+<input type="radio" name="gender" value="male" checked> Muu<br>
+	</tr>
+		<tr>
+	<td class="otsikot"><h2>Syntymäpäivä:</h2></td>
+	<input type="date" name="bday" class="select"></td>
+	</tr>
+		<tr>
+		<td class="otsikot"><h2>Arvosana koulutukselle:</h2></td>
+			<input type="number" name="quantity" min="1" max="5" class="select"></td>
+		</tr>
+			<tr>
+		<td class="otsikot"><h2>Tulen kouluun:</h2></td>
+			<input type="checkbox" name="vehicle1" value="Bus">Bussilla<br>
+			<input type="checkbox" name="vehicle2" value="Metro">Metrolla<br>
+			<input type="checkbox" name="vehicle3" value="Ratikka">Ratikalla<br>
+			<input type="checkbox" name="vehicle4" value="Pyora">Pyörällä<br>
+			<input type="checkbox" name="vehicle5" value="Foot">Kävellen<br>
+			<input type="checkbox" name="vehicle6" value="Train">Junalla<br>
+			<input type="checkbox" name="vehicle7" value="Car">Autolla<br>
+			<input type="checkbox" name="vehicle8" value="Other">Jollain muulla<br>
+			</td>
+		</tr>
+	<tr>
+		<td class="otsikot"><h2>Kommentit:</h2></td>
+		<td><textarea name="comment" rows="20" cols="30"></textarea></td>
+	</tr>
+		<tr>
+		<td class="otsikot"></td>
+	<td><input type="submit" value="Lähetä"></td>
+	</tr>
+		
+		</table>
+	</form>
+</body>
+</html>
