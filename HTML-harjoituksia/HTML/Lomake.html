@@ -40,40 +40,43 @@ input[type=submit], input[type=text] {
 </style>
 </head>
 	<body>
+	<form action="mailto:jefhnjksehfjk@sjkfhfjks.fi" method="post">
 		<table>
 			<tr><th colspan="2"<h1>Tiedon keruu!</h1></th></tr>
 		<tr>
 			<td class="otsikot"><h2>Nimi:</h2></td>
-			<td><input type="text" name="nimi" placeholder="Kirjoita nimesi" size="25"></td>
+			<td><input type="text" name="nimi" placeholder="Kirjoita nimesi" size="20"></td>
+		</tr>
+		<tr>
 			<td class="otsikot"><h2>Sähköposti:</h2></td>
-			<td><input type="text" name="nimi" placeholder="Kirjoita sähköpostisi" size="25"></td>
+			<td><input type="text" name="sposti" placeholder="Kirjoita sähköpostisi" size="20"></td>
 		</tr>
 		<tr>
 		<td class="otsikot"><h2>Sijainti:</h2></td>
 		<td><select name="cities" size="" class="select">
-	<option value="spyro">Kerava</option>
-	<option value="crash">Järvenpää</option>
-	<option value="jak">Vantaa</option>
-	<option value="ratchet">Muu</option>
+	<option value="kerava">Kerava</option>
+	<option value="jarvenpaa">Järvenpää</option>
+	<option value="vantaa">Vantaa</option>
+	<option value="jokumuu">Muu</option>
 </select></td>
 		</tr>
 		<tr>
 	<td class="otsikot"><h2>Sukupuoli:</h2></td>
 	<td><input type="radio" name="gender" value="male" checked> Mies<br>
 <input type="radio" name="gender" value="female" checked> Nainen<br>
-<input type="radio" name="gender" value="male" checked> Muu<br>
+<input type="radio" name="gender" value="other" checked>Muu<br></td>
 	</tr>
 		<tr>
 	<td class="otsikot"><h2>Syntymäpäivä:</h2></td>
-	<input type="date" name="bday" class="select"></td>
+	<td><input type="date" name="bday" class="select"></td>
 	</tr>
 		<tr>
 		<td class="otsikot"><h2>Arvosana koulutukselle:</h2></td>
-			<input type="number" name="quantity" min="1" max="5" class="select"></td>
+			<td><input type="number" name="quantity" min="1" max="5" class="select"></td>
 		</tr>
 			<tr>
 		<td class="otsikot"><h2>Tulen kouluun:</h2></td>
-			<input type="checkbox" name="vehicle1" value="Bus">Bussilla<br>
+		<td><input type="checkbox" name="vehicle1" value="Bus">Bussilla<br>
 			<input type="checkbox" name="vehicle2" value="Metro">Metrolla<br>
 			<input type="checkbox" name="vehicle3" value="Ratikka">Ratikalla<br>
 			<input type="checkbox" name="vehicle4" value="Pyora">Pyörällä<br>
