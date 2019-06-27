@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\bin\Debug\Ristijanolla.exe.config
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\bin\Debug\Ristijanolla.exe
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\bin\Debug\Ristijanolla.pdb
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.Form1.resources
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.exe
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.pdb
+C:\Users\mika.vaine\source\repos\Ristijanolla\Ristijanolla\obj\Debug\Ristijanolla.csprojAssemblyReference.cache

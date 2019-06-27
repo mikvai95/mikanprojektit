@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\bin\Debug\Osallistujat.exe.config
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\bin\Debug\Osallistujat.exe
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\bin\Debug\Osallistujat.pdb
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.Form1.resources
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.exe
+C:\Users\mika.vaine\source\repos\Osallistujat\Osallistujat\obj\Debug\Osallistujat.pdb

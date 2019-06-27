@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\bin\Debug\Pankki.exe.config
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\bin\Debug\Pankki.exe
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\bin\Debug\Pankki.pdb
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.Form1.resources
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.exe
+C:\Users\mika.vaine\source\repos\Pankki\Pankki\obj\Debug\Pankki.pdb

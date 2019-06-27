@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\bin\Debug\Potenssi1.exe.config
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\bin\Debug\Potenssi1.exe
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\bin\Debug\Potenssi1.pdb
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.Form1.resources
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.exe
+C:\Users\mika.vaine\source\repos\Potenssi1\Potenssi1\obj\Debug\Potenssi1.pdb

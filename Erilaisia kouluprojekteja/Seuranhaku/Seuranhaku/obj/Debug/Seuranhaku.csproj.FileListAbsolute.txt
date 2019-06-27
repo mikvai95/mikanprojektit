@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\bin\Debug\Seuranhaku.exe.config
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\bin\Debug\Seuranhaku.exe
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\bin\Debug\Seuranhaku.pdb
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.Form1.resources
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.exe
+C:\Users\mika.vaine\source\repos\Seuranhaku\Seuranhaku\obj\Debug\Seuranhaku.pdb

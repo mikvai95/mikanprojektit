@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\bin\Debug\Lehtivalikko.exe.config
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\bin\Debug\Lehtivalikko.exe
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\bin\Debug\Lehtivalikko.pdb
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.Form1.resources
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.exe
+C:\Users\mika.vaine\source\repos\Lehtivalikko\Lehtivalikko\obj\Debug\Lehtivalikko.pdb

@@ -1,0 +1,7 @@
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\bin\Debug\Nostaviisikorttia1.exe.config
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\bin\Debug\Nostaviisikorttia1.exe
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\bin\Debug\Nostaviisikorttia1.pdb
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\obj\Debug\Nostaviisikorttia1.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\obj\Debug\Nostaviisikorttia1.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\obj\Debug\Nostaviisikorttia1.exe
+C:\Users\mika.vaine\source\repos\Nostaviisikorttia1\Nostaviisikorttia1\obj\Debug\Nostaviisikorttia1.pdb

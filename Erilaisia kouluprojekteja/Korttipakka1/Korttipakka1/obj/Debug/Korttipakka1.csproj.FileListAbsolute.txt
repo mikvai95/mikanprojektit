@@ -1,0 +1,7 @@
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\bin\Debug\Korttipakka1.exe.config
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\bin\Debug\Korttipakka1.exe
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\bin\Debug\Korttipakka1.pdb
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\obj\Debug\Korttipakka1.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\obj\Debug\Korttipakka1.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\obj\Debug\Korttipakka1.exe
+C:\Users\mika.vaine\source\repos\Korttipakka1\Korttipakka1\obj\Debug\Korttipakka1.pdb

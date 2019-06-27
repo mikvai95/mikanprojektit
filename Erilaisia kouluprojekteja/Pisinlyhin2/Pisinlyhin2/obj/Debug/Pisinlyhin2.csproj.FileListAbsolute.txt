@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\bin\Debug\Pisinlyhin2.exe.config
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\bin\Debug\Pisinlyhin2.exe
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\bin\Debug\Pisinlyhin2.pdb
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.Form1.resources
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.exe
+C:\Users\mika.vaine\source\repos\Pisinlyhin2\Pisinlyhin2\obj\Debug\Pisinlyhin2.pdb

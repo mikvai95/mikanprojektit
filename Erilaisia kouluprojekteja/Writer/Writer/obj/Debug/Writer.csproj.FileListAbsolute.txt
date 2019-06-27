@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Writer\Writer\bin\Debug\Writer.exe.config
+C:\Users\mika.vaine\source\repos\Writer\Writer\bin\Debug\Writer.exe
+C:\Users\mika.vaine\source\repos\Writer\Writer\bin\Debug\Writer.pdb
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.Form1.resources
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.exe
+C:\Users\mika.vaine\source\repos\Writer\Writer\obj\Debug\Writer.pdb

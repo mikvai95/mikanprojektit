@@ -11,8 +11,9 @@ if (etunimi.value == "") {
     etunimi.focus();
     return false;
 }
-else if (etunimi.length <=3) {
+else if(etunimi.value.length < 3)  {
     window.alert("Anna kolmikirjaiminen etunimi");
+    etunimi.focus();
     return false;
 }
 if (sukunimi.value == "") {

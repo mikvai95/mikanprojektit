@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\bin\Debug\Hockeyresults.exe.config
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\bin\Debug\Hockeyresults.exe
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\bin\Debug\Hockeyresults.pdb
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.Jääkiekkotulokset.resources
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.exe
+C:\Users\mika.vaine\source\repos\Hockeyresults\Hockeyresults\obj\Debug\Hockeyresults.pdb

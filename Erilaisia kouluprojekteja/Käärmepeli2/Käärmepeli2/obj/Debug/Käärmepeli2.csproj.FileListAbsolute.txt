@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\bin\Debug\Käärmepeli2.exe.config
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\bin\Debug\Käärmepeli2.exe
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\bin\Debug\Käärmepeli2.pdb
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.Form1.resources
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.exe
+C:\Users\mika.vaine\source\repos\Käärmepeli2\Käärmepeli2\obj\Debug\Käärmepeli2.pdb

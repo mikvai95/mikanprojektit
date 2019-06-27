@@ -1,0 +1,7 @@
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.exe.config
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.exe
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.pdb
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.exe
+C:\Users\mika.vaine\source\repos\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.pdb

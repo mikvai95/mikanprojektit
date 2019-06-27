@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<head>
+    <title>JavaScript tietovisa</title>
+	<link rel="stylesheet" href="Tyyli.css">
+	<script src="Javascripti.js"></script>
+</head>
+<body>
+<div id="sisalto">
+	<header>
+		<h1>JavaScript tietovisa</h1>
+		<p>Luuletko tietäväsi <strong>JavaScriptistä?</strong></p>
+	</header>
+	<section>
+	<div id="tulokset"></div>
+	<form name="kyselyLomake" onsubmit="return lahetaVastaukset()">
+	<h3>1. Mihin HTML elementtiin sijoitamme JavaScript koodin?</h3>
+	<input type="radio" name="k1" value="a" id="k1a">a. &lt;js&gt;<br>
+	<input type="radio" name="k1" value="b" id="k1b">b. &lt;script&gt;<br>
+	<input type="radio" name="k1" value="c" id="k1c">c. &lt;body&gt;<br>
+	<input type="radio" name="k1" value="d" id="k1d">d. &lt;link&gt;<br>
+	<h3>2. Mitä HTML attribuuttia käytetään viittaamaan ulkoiseen JavaScript tiedostoon?</h3>
+	<input type="radio" name="k2" value="a" id="k2a">a. src<br>
+	<input type="radio" name="k2" value="b" id="k2b">b. link<br>
+	<input type="radio" name="k2" value="c" id="k2c">c. rel<br>
+	<input type="radio" name="k2" value="d" id="k2d">d. href<br>
+	<h3>3. Millä merkillä JavaScript muuttuja alkaa?</h3>
+	<input type="radio" name="k3" value="a" id"k3a">a. @<br>
+	<input type="radio" name="k3" value="b" id"k3b">b. $<br>
+	<input type="radio" name="k3" value="c" id"k3c">c. #<br>
+	<input type="radio" name="k3" value="d" id"k3d">d. Ei millään<br>
+	<h3>4. Miten kirjoitetaan "Hei maailma" alert-viestinä?</h3>
+	<input type="radio" name="k4" value="a" id="k4a">a. msg("Hei maailma");<br>
+	<input type="radio" name="k4" value="b" id="k4b">b. alertBox("Hei maailma");<br>
+	<input type="radio" name="k4" value="c" id="k4c">c. document.write("Hei maailma");<br>
+	<input type="radio" name="k4" value="d" id="k4d">d. alert("Hei maailma");<br>
+	<h3>5. Onko JavaScript suoraan sukua Java -ohjelmointikielelle?</h3>
+	<input type="radio" name="k5" value="a" id="k5a">a. Kyllä<br>
+	<input type="radio" name="k5" value="b" id="k5b">b. Ei<br>
+	<br><br>
+	<input type="submit" value="Lähetä vastaukset">
+	</form>
+</section>
+</div>
+<footer>
+	<p>Kaikki oikeudet pidätetään, varsinkin etuoikeudet</p>
+</footer>
+</body>
+</html>

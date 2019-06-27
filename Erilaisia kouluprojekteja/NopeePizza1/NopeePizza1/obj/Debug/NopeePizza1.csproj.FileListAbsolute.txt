@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\bin\Debug\NopeePizza1.exe.config
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\bin\Debug\NopeePizza1.exe
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\bin\Debug\NopeePizza1.pdb
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.Form1.resources
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.exe
+C:\Users\mika.vaine\source\repos\NopeePizza1\NopeePizza1\obj\Debug\NopeePizza1.pdb

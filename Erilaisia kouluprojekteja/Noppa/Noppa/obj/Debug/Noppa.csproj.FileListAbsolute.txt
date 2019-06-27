@@ -1,0 +1,7 @@
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\obj\Debug\Noppa.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\obj\Debug\Noppa.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\bin\Debug\Noppa.exe.config
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\bin\Debug\Noppa.exe
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\bin\Debug\Noppa.pdb
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\obj\Debug\Noppa.exe
+C:\Users\mika.vaine\source\repos\Noppa\Noppa\obj\Debug\Noppa.pdb

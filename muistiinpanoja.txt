@@ -1,0 +1,115 @@
+C# Ohjeet
+
+using System - T‰h‰n voi laittaa erilaisia systeemej‰, joita k‰ytt‰‰ ohjelman teossa.
+
+class, public class - Luokkia.
+
+public static void Main (string[] args) - Yksi yleisimmin k‰ytetyist‰ metodeista.
+
+Console.Write / WriteLine - T‰m‰n sis‰‰n voi kirjoittaa teksti‰ ja tulostaa sen konsoliin.
+
+Console.ReadLine - Lukee syˆtetyn tiedon.
+
+Console.ReadKey - Jos on m‰‰ritetty painamaan esimerkiksi Enteri‰, t‰m‰ komento lukee sen.
+
+Convert.ToInt32 - K‰ytet‰‰n esimerkiksi, jos vaikka ik‰‰ kysyt‰‰n.
+
+int - K‰ytet‰‰n tallentamaan kokonaislukuja.
+
+string - Tekstijono.
+
+bool - Tosi tai ep‰tosi.
+
+float - T‰m‰ on hyˆdyllinen esimerkiksi, jos tekee laskimen.
+
+decimal - T‰m‰ merkit‰‰n yleens‰ t‰ll‰ tavoin: 0,0m;.
+
+i++ tai ++i - Lis‰ysoperaattori.
+
+i-- tai --i - V‰hennysoperaattori.
+
+i < 10 - Yhdeks‰‰n saakka.
+
+i <= 10 - Kymmeneen saakka.
+
+!= - Erisuuri kuin.
+
+&& - ja operaattori
+
+|| - tai operaattori
+
+! - ei operaattori
+
+^ - poistava tai operaattori
+
+If, else if, else - Jos joku asia on jotakin, tehd‰‰n jotain.
+
+Switch case - Testattavana yksi lauseke, jossa arvon perusteella p‰‰dyt‰‰n johonkin case-haaraan. Caseja voi olla useita.
+
+While - Ehdon ollessa tosi suoritetaan silmukan sis‰iset lauseet, jonka j‰lkeen palataan tutkimaan, viel‰kˆ ehto on tosi.®
+
+For - T‰m‰n avulla toistojen lukum‰‰r‰‰ hallitaan ohjelmassa olevan toistolaskurin avulla, esimerkiksi for (int i = 0; i < 5; i++)
+
+Taulukko - Merkit‰‰n [] -suluilla. T‰m‰ voi olla esimerkiksi int[] luvut = new int[20].
+
+goto - T‰m‰n avulla p‰‰see takaisin aloittamaan vaikka jonkun pelin uudestaan, tietenkin pit‰‰ olla aloituskohta m‰‰ritetty.
+
+-------
+
+Windows Forms
+
+MessageBox.Show("") - N‰ytt‰‰ sen, mit‰ sulkujen ja lainausmerkkien sis‰‰n on kirjoitettu.
+
+Uri - K‰ytet‰‰n, kun halutaan saada selain Windows Formsiin. En kyll‰ k‰sit‰, miksi se on URI, eik‰ URL.
+
+Convert.ToDateTime - T‰t‰ metodia k‰ytet‰‰n muuttamaan jokin numeromerkkijono vastaavaksi p‰iv‰ksi ja ajaksi.
+
+IsNullOrWhiteSpace - T‰ll‰ tarkistetaan, ettei kent‰ss‰ ole tyhj‰‰.
+
+Kuinka p‰‰st‰ eroon tyhjist‰ kohdista:
+
+ekapilkku = henkilot[i].IndexOf(",", 0);
+tokapilkku = henkilot[i].IndexOf(",", (ekapilkku + 1));
+aikapituus = henkilot[i].Length - tokapilkku;
+saika = Convert.ToDateTime(henkilot[i].Substring((tokapilkku + 2),(aikapituus-2)));
+
+-------
+
+Muita muistiinpanoja
+
+Kuinka saada alasvetovalikko linkittym‰‰n checkboxeihin: Select id:n j‰lkeen onchange="funktio()" ja tekee erikseen funktion, jossa on joku muuttuja
+ja siihen laittaa document.getElementById("jotain").value ja sen j‰lkeen tekee switch casen eri vaihtoehdoille.
+
+Kuinka saada kaksi eri checkbox arvoa taulukkoon omiin soluihinsa:
+
+function haeTayte()
+			{
+			
+                var tayte = document.getElementsByName("tayte");
+				var txt = "";
+				var i;
+				for (i = 0; i < tayte.length; i++) 
+				{
+					if (tayte[i].checked) 
+					{
+						txt = txt + tayte[i].value + " ";
+					}
+				}
+				return txt;
+			}
+			function haeMuutilaus()
+			{
+				var muutilaus = document.getElementsByName("muutilaus");
+				var teksti = "";
+				var j;
+				for (j = 0; j < muutilaus.length; j++)
+				{
+					if (muutilaus[j].checked)
+					{
+						teksti = teksti + muutilaus[j].value + " ";
+					}
+				}
+				return teksti;
+-------------------------------------------------------------------------------------------
+
+

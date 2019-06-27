@@ -1,0 +1,10 @@
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\bin\Debug\Kirja.exe.config
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\bin\Debug\Kirja.exe
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\bin\Debug\Kirja.pdb
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.csprojAssemblyReference.cache
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.Form1.resources
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.Properties.Resources.resources
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.csproj.GenerateResource.cache
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.csproj.CoreCompileInputs.cache
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.exe
+C:\Users\mika.vaine\source\repos\Kirja\Kirja\obj\Debug\Kirja.pdb
